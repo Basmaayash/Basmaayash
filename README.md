@@ -1,27 +1,44 @@
-# Hi, I'm Basma Muneer Ayash! 👩‍💻
-
-🌱 **Front-End Developer | Aspiring Cybersecurity Enthusiast**  
-🎓 IT Graduate (Class of 2025)  
-💻 Passionate about building **responsive, interactive, and secure web applications**.  
-
----
-
-## 🛠️ Skills & Technologies
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+), Responsive Design, Flexbox, Grid  
-- **Frameworks & Libraries (Learning):** Bootstrap, React Basics  
-- **Version Control:** Git & GitHub  
-- **Programming & Scripting:** Python (for Security), Java (Basics)  
-- **Other:** Linux Fundamentals, SQL Basics, Networking Basics  
+<h1 align="center">Hi, I'm Basma Muneer Ayash! 👩‍💻</h1>
+<p align="center">
+  🌱 Front-End Developer | Aspiring Cybersecurity Enthusiast <br>
+  🎓 IT Graduate (Class of 2025)
+</p>
 
 ---
 
 ## 💻 Projects & Portfolio
-Check out my projects on GitHub:
+Check out my main repositories:
 
-- **[ToDo-App](https://github.com/Basmaayash/ToDo-App)** – Interactive JavaScript To-Do List App  
-- **[Weather App](https://github.com/Basmaayash/Git_Course)** – Responsive weather app fetching real-time data  
-- **[Git_Course](https://github.com/Basmaayash/Git_Course)** – HTML & GitHub exercises  
-- **[Template-courses-in-HTML-and-CSS](https://github.com/Basmaayash/Template-courses-in-HTML-and-CSS)** – Frontend practice templates  
+<p align="center">
+  <a href="https://github.com/Basmaayash/ToDo-App">
+    <img src="https://img.shields.io/badge/ToDo-App-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="ToDo-App"/>
+  </a>
+  <a href="https://github.com/Basmaayash/Git_Course">
+    <img src="https://img.shields.io/badge/Git_Course-HTML-red?style=for-the-badge&logo=html5" alt="Git Course"/>
+  </a>
+  <a href="https://github.com/Basmaayash/cybersecurity-portfolio">
+    <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge&logo=security" alt="Cybersecurity Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basmaayash&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmaayash&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -33,22 +50,17 @@ Check out my projects on GitHub:
 
 ---
 
-## 🏆 Certifications & Education
-- 🎓 Google Cybersecurity Certificate (in progress)  
-- 🏫 Bachelor's in Information Technology (Class of 2025)  
-
----
-
-## 📊 GitHub Stats
-![Basma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmaayash&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/basma-ayash-3076ab3a7/)  
-- [GitHub](https://github.com/Basmaayash)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/basma-ayash-3076ab3a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Basmaayash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > I create **clean, interactive, and secure front-end projects** while exploring cybersecurity practices.  
-> If you are looking for a passionate and dedicated Front-End Developer, let's connect! 🚀
+> Always open to opportunities and collaboration 🚀
