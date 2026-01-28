@@ -1,63 +1,54 @@
-<h2>Hi, I'm Basma Muneer Ayash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi, I'm Basma Muneer Ayash! 👩‍💻
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-<p><em>
-  🌱 Aspiring cybersecurity student and lifelong learner. <br>
-  🎓 IT Graduate (Class of 2025) currently pursuing the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Certificate</a>. <br>
-  💻 Basic foundation in programming (Java) with growing interests in <strong>Linux, Python, SQL, and Networking</strong>. <br>
-  🚀 Passionate about protecting digital assets and exploring security challenges.
-</em></p>
+🌱 **Front-End Developer | Aspiring Cybersecurity Enthusiast**  
+🎓 IT Graduate (Class of 2025)  
+💻 Passionate about building **responsive, interactive, and secure web applications**.  
 
 ---
 
-### 🔧 Skills & Technologies:
-
-- **Programming:** Java (Basics)
-- **Operating Systems:** Linux Fundamentals
-- **Scripting:** Python (for cybersecurity)
-- **Database:** SQL (Basic)
-- **Networking:** Network Fundamentals
-- **Cybersecurity:** Concepts & practices learned via Google Cybersecurity Certificate
+## 🛠️ Skills & Technologies
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), Responsive Design, Flexbox, Grid  
+- **Frameworks & Libraries (Learning):** Bootstrap, React Basics  
+- **Version Control:** Git & GitHub  
+- **Programming & Scripting:** Python (for Security), Java (Basics)  
+- **Other:** Linux Fundamentals, SQL Basics, Networking Basics  
 
 ---
 
-### 📚 Currently Learning:
+## 💻 Projects & Portfolio
+Check out my projects on GitHub:
 
-- 🐧 Linux Essentials
-- 🐍 Python for Security
-- 🗃️ SQL & Data Handling
-- 🌐 Advanced Networking Concepts
-
----
-
-### 🏆 Certifications & Education:
-
-- 🎓 **Google Cybersecurity Certificate** (in progress)
-- 🏫 **Bachelor's in Information Technology** (Class of 2025)
-- 💡 Additional online courses and workshops on cybersecurity and programming
+- **[ToDo-App](https://github.com/Basmaayash/ToDo-App)** – Interactive JavaScript To-Do List App  
+- **[Weather App](https://github.com/Basmaayash/Git_Course)** – Responsive weather app fetching real-time data  
+- **[Git_Course](https://github.com/Basmaayash/Git_Course)** – HTML & GitHub exercises  
+- **[Template-courses-in-HTML-and-CSS](https://github.com/Basmaayash/Template-courses-in-HTML-and-CSS)** – Frontend practice templates  
 
 ---
 
-### 💻 Projects & Portfolio:
-
-- **Cybersecurity Portfolio:** Showcases fictional projects and hands-on exercises as part of my learning journey.
-- **[Project Name 1](#):** Brief description and technologies used.
-- **[Project Name 2](#):** Brief description and technologies used.
-  
-*(Feel free to check out my repositories to explore more projects!)*
+## 📚 Currently Learning
+- Advanced JavaScript & ES6+  
+- React & Component-Based Architecture  
+- CSS Animations & Responsive UI Design  
+- Linux Essentials & Python for Security  
 
 ---
 
-### 📊 GitHub Stats:
-
-<!-- GitHub stats can be displayed using shields or dynamic images -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmaayash&show_icons=true&theme=radical)](https://github.com/Basmaayash)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basmaayash&layout=compact&theme=radical)](https://github.com/Basmaayash)
+## 🏆 Certifications & Education
+- 🎓 Google Cybersecurity Certificate (in progress)  
+- 🏫 Bachelor's in Information Technology (Class of 2025)  
 
 ---
 
-### 🤝 Connect with me:
+## 📊 GitHub Stats
+![Basma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basmaayash&show_icons=true&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/github/followers/Basmaayash?label=Follow&style=social)](https://github.com/Basmaayash)
+---
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/basma-ayash-3076ab3a7/)  
+- [GitHub](https://github.com/Basmaayash)  
+
+---
+
+> I create **clean, interactive, and secure front-end projects** while exploring cybersecurity practices.  
+> If you are looking for a passionate and dedicated Front-End Developer, let's connect! 🚀
