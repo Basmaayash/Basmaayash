@@ -13,9 +13,9 @@ Check out my main repositories:
   <a href="https://github.com/Basmaayash/ToDo-App">
     <img src="https://img.shields.io/badge/ToDo-App-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="ToDo-App"/>
   </a>
-  <a href="https://github.com/Basmaayash/Git_Course">
-    <img src="https://img.shields.io/badge/Git_Course-HTML-red?style=for-the-badge&logo=html5" alt="Git Course"/>
-  </a>
+<a href="https://github.com/Basmaayash/Weather-App">
+  <img src="https://img.shields.io/badge/Weather-App-HTML-red?style=for-the-badge&logo=html5" alt="Weather App"/>
+</a>
   <a href="https://github.com/Basmaayash/cybersecurity-portfolio">
     <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge&logo=security" alt="Cybersecurity Portfolio"/>
   </a>
@@ -58,6 +58,10 @@ Check out my main repositories:
   <a href="https://github.com/Basmaayash">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:bsmtyash2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
